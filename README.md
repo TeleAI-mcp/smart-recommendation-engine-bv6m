@@ -1,2 +1,3 @@
-# smart-recommendation-engine-bv6m
-AI-powered recommendation system for modern development workflows
+# Smart Recommendation Engine Bv6M
+
+A AI-powered recommendation system for modern development workflows.
